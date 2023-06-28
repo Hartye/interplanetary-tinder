@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\bin\Debug\tinder_interplanetario.exe.config
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\bin\Debug\tinder_interplanetario.exe
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\bin\Debug\tinder_interplanetario.pdb
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.Form1.resources
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.Properties.Resources.resources
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.exe
+C:\Users\danie\source\repos\tinder_interplanetario\tinder_interplanetario\obj\Debug\tinder_interplanetario.pdb

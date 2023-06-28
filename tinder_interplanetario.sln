@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tinder_interplanetario", "tinder_interplanetario\tinder_interplanetario.csproj", "{AF70F35D-6BAF-4FDE-8980-E36203155054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF70F35D-6BAF-4FDE-8980-E36203155054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF70F35D-6BAF-4FDE-8980-E36203155054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF70F35D-6BAF-4FDE-8980-E36203155054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF70F35D-6BAF-4FDE-8980-E36203155054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8CBE7D-E4E7-4892-A753-745B6648F349}
+	EndGlobalSection
+EndGlobal
